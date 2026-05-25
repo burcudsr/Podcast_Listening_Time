@@ -1,6 +1,6 @@
 # 🎙️ Predict Podcast Listening Time
 
-Machine Learning Regression project built for the 2025 Kaggle Playground Series - Season 5, Episode 4 to predict the listening duration of podcast episodes.
+Machine Learning Regression project built for the **Kaggle Playground Series - Season 5, Episode 4** to predict the listening duration of podcast episodes.
 
 ### 🚀 Live Demo
 Test the model here: [Podcast Listening Time Prediction App](https://huggingface.co/spaces/bdaser/Podcast)
